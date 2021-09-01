@@ -12,7 +12,7 @@
     <img align="center" alt="Python" height="50" width="50" src="https://cdn.discordapp.com/attachments/589140376229511295/874991590412779580/python-original.svg">
     <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   </div>
-  <h2 align="center" color="black">Intermediário em GDScript, e iniciante em Python </h2>
+  <h2 align="center" color="black">Intermediário em GDScript, e iniciante em Python e Java! </h2>
   </div>
 
 <div align="center">
