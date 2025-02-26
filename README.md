@@ -3,7 +3,7 @@
 
 - 📍  **Itaperuna - RJ**
 - 🎓 Formado **técnico de Informática** | Cursando **Sistemas de Informação**
-- 🌱 Aprendendo **Django, Godot, IA**
+- 🌱 Aprendendo **Django, React, IA**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
