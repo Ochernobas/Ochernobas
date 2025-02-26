@@ -2,7 +2,7 @@
 <h3 align="center">Um estudante de programação apaixonado por tecnologia e ansioso em aprender!</h3>
 
 - 📍  **Itaperuna - RJ**
-- 🎓 Formado **técnico de Informática** | Cursando **Sistemas de Informação**
+- 🎓 Formado **técnico de Informática** | Cursando **Ciência e Tecnologia - UNIFESP**
 - 🌱 Aprendendo **Django, React, IA**
 
 <h3 align="left">Redes Sociais:</h3>
