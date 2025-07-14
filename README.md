@@ -3,7 +3,7 @@
 
 - 📍  **Itaperuna - RJ -> ⛟ -> São José dos Campos - SP**
 - 🎓 Formado **técnico de Informática** | Cursando **Ciência e Tecnologia - UNIFESP**
-- 🌱 Aprendendo **Django, React, IA**
+- 🌱 Quero me tornar Analista de Dados e trabalhar com Inteligência Artificial**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
