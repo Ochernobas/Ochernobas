@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Meu nome é Rafael Soares</h1>
 <h3 align="center">Um estudante de programação apaixonado por tecnologia e ansioso em aprender!</h3>
 
-- 📍  **Itaperuna - RJ**
+- 📍  **Itaperuna - RJ ⛟ -> São José dos Campos - SP**
 - 🎓 Formado **técnico de Informática** | Cursando **Ciência e Tecnologia - UNIFESP**
 - 🌱 Aprendendo **Django, React, IA**
 
